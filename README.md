@@ -213,6 +213,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review) - AI-powered GitHub Pull Request code review using MiniMax models.
 - [claude-pr-reviewer](https://github.com/indoor47/claude-pr-reviewer) - GitHub Action + CLI that uses Claude AI to automatically review pull requests, post inline comments, and report token costs. Supports strictness levels (lenient/balanced/strict). Zero dependencies, Python 3.8+.
 - [Revieko](https://synqra.tech/revieko/) — Architecture drift radar for PRs: structural risk scoring and drift hotspots.
+- [CodeHawk](https://codehawk.crossgen-ai.com) — GitHub App that installs in seconds and reviews pull requests automatically, posting inline comments on bugs, security vulnerabilities, and logic errors.
 
 ## App generators
 
@@ -274,6 +275,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models.
 - [EkLine](https://ekline.io/) — Helps software teams create and maintain high-quality documentation with AI-powered quality checks, style guide enforcement, and automatic doc generation.
 - [Changenotes](https://changenotes.app) — AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.
+- [changelog-gen](https://github.com/indoor47/changelog-gen) — AI-powered changelog generator that converts git commits into human-readable release notes using Claude.
 
 ## Observability
 - [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
