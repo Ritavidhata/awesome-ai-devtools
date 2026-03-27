@@ -158,6 +158,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 #### UI Generators
 
+- [Thesys C1](https://www.thesys.dev/) — The first Generative UI API that turns LLM outputs into live, interactive UI components (charts, forms, tables, cards) in real-time. OpenAI-compatible endpoint that integrates with any LLM in 2 lines of code. Includes React SDK and supports custom design systems.
 - [v0](https://v0.dev/) — Create and iterate new UI components in your browser.
 - [Magic Patterns](https://www.magicpatterns.com/) — Prototype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their [Chrome Extension](https://www.magicpatterns.com/extension). Can export to Figma with a [plugin](https://www.figma.com/community/plugin/1304255855834420274). Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind.
 - [Tempo](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
@@ -205,6 +206,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Desktop Applications
 
+- [ServBay](https://www.servbay.com/) — All-in-one local development environment with PHP, Node.js, Python, Go, Java, Ruby, Rust, and databases (MySQL, PostgreSQL, MongoDB, Redis). Features built-in AI integration with Ollama for local LLM deployment, SSL certificate management, and one-click setup. Available for macOS and Windows.
 - [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
