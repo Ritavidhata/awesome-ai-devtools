@@ -91,6 +91,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ### Terminal Agents
 
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
+- [Agent-Todo](https://github.com/formatho/agent-orchestrator) — Open-source task management system for AI agents. Provides persistent task queues, priority scheduling, progress tracking, and support for multiple AI providers (OpenAI, Anthropic, Ollama). Designed for autonomous agents that need to remember and manage complex workflows.
 - [OpenAI Codex CLI](https://openai.com/codex/) — OpenAI's official lightweight coding agent that runs in your terminal. Executes code, manipulates files, and iterates with the user. Fully open-source with support for multiple AI providers.
 - [Aider](https://aider.chat/) — Popular CLI assistant and agent that generates changes and commits to repositories. Supports multiple LLM providers with built-in benchmarks. 25k+ GitHub stars.
 - [OpenHands](https://www.all-hands.dev/) — Open-source autonomous AI software developer (formerly OpenDevin). Features a full development environment with code editor, terminal, and browser for end-to-end task completion. 50k+ GitHub stars.
